@@ -1,0 +1,3 @@
+/home/l/l_i201/Desktop/code/build/CMakeFiles/rebuild_cache.dir
+/home/l/l_i201/Desktop/code/build/CMakeFiles/edit_cache.dir
+/home/l/l_i201/Desktop/code/build/CMakeFiles/seg.dir
