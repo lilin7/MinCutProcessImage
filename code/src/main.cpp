@@ -1,6 +1,5 @@
-/**COMP 6651 P1
+/**
  * Lin Li
- * Student ID: 40044486
  */
 
 #include <opencv2/opencv.hpp>
